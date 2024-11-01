@@ -3,7 +3,7 @@
 ## Hosted by the Department of Mathematics and Computer Science, Chulalongkorn University
 
 
-<a target="_blank" href="[https://colab.research.google.com/github/MathcomChula/Sciastral-Workshop/blob/main/Workshop_predict_score_Sciastral_Openhouse_2024.ipynb](https://github.com/MathcomChula/Sciastral-Workshop/blob/main/Workshop_predict_score_Sciastral_Openhouse_2024%20(2).ipynb)">
+<a target="_blank" href="https://colab.research.google.com/github/MathcomChula/Sciastral-Workshop/blob/main/Workshop_predict_score_Sciastral_Openhouse_2024.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
